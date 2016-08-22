@@ -1,3 +1,10 @@
+
+Andrew Cordivari
+https://github.com/andrewdc92/tic-tac-toe
+
+As much as this was definitely a serious brainteaser at times, I absolutely enjoyed getting the logic figured out. I also learned a few good lessons. First, I started off with the wrong mentality. Intstead of breaking into small pieces and setting the foundation, I started with what I thought to be "the hardest", which was creating the series of functions that would determine the winner. Even thought I did recognize a good strategy for doing so, I realized that implementing it in reverse (before I had figure out how to alternate turns or make the designated symbols appear) was pretty much a waste of time. So I restarted and prioritized a) getting text to apper in any of the boxes b) getting x to appear c) switching between x and o d) making sure I couldn't override a filled box and then e) getting the reset button to work. I am confident that NOW I can construct a few functions to determine the winner which I'll work on over the coming week.
+
+
 # Tic Tac Toe - Weekend Lab
 
 **Objective:** Build a tic-tac-toe game in HTML, CSS, and JavaScript.
